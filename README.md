@@ -1,5 +1,5 @@
 # seoul256 theme
 
-A short description of your theme.
+Rough clone of https://github.com/junegunn/seoul256.vim for Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot of theme](/res/screenshot.png?raw=true)
