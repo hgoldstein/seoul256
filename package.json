@@ -1,7 +1,7 @@
 {
   "name": "seoul256",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Rough clone of https://github.com/junegunn/seoul256.vim for Atom",
   "keywords": [
     "syntax",
